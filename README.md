@@ -21,16 +21,6 @@ Application with templates for working out or meditating
 - You can also click below and a heart animation will appear with Lotti
 ## Version
 Version 1.0.0
-## Despliegue
-- Windows
-```sh
-Doble click al .jar
-```
-- Linea de comandos
-```sh
-cd /rutadelacarpeta
-java -jar swing_c_p02_ReidRuizMiguel.jar
-```
 ## Built with
 Kotlin
 ## Version
