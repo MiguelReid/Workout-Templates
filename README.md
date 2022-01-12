@@ -1,12 +1,25 @@
 # Workout-Templates
 ## Description
 Application with templates for working out or meditating
-## Contenido de la publicacion
-- Directorio con un ejecutable .jar
-- Desarrollo con el codigo
-- Documentacion tecnica con el JavaDoc
-- Documentos sobre la usabilidad
-## Desarrollo del proyecto
+## Login
+- Made with Firebase we can register with an email and with your google account.
+- When an account has been made you can login with the same credentials
+## Upper Menu
+- We can change to dark, light and whatever your device has theme.
+- About which opens Google Maps
+## Lower + Menu
+- It lets you create a new template
+- Put a name, and the amount of seconds you want to put
+- Click Save
+## Search Bar
+- You can look for a specific template with the name
+## Clicking the start button normal mode
+- You have a timer with the second you previously indicated
+- If you click start 5 seconds will be added with motivational messages
+## Clicking the start button Zen Mode
+- If you activate the zen mode you will have relaxing music + a space picture from Nasa's APOD Api
+- You can also click below and a heart animation will appear with Lotti
+## Version
 Version 1.0.0
 ## Despliegue
 - Windows
@@ -18,13 +31,13 @@ Doble click al .jar
 cd /rutadelacarpeta
 java -jar swing_c_p02_ReidRuizMiguel.jar
 ```
-## Construido con
-JAVA
-## Versionado
+## Built with
+Kotlin
+## Version
 Version 1.0.0
-## Autores
+## Author
 Miguel Reid Ruiz
-## Licencia
+## License
 Licencia GPL
-## Recursos adicionales
-- [GitHub](https://github.com/)
+## Nasa's Pictures from APOD Api
+- [APOD](https://apod.nasa.gov/apod/astropix.html)
