@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">practica-uno</string>
+    <string name="theme">Elige un tema</string>
+    <string name="animo">ANIMO!!!</string>
+    <string name="meditar">Meditar…</string>
+    <string name="modozen">Modo Zen</string>
+    <string name="preparate">Preparate</string>
+    <string name="plantilla">Plantillas Fitness</string>
+    <string name="email">Correo:</string>
+    <string name="contraseña">Contraseña: </string>
+    <string name="registrar">registrar</string>
+    <string name="login">login</string>
+    <string name="nueva">Nueva plantilla fitness</string>
+    <string name="nombre">Nombre: </string>
+    <string name="duracion">Duracion: </string>
+    <string name="save">SAVE</string>
+    <string name="reset">RESET</string>
+    <string name="exit">EXIT</string>
+    <string name="play">INICIAR</string>
+    <string name="tiempo">Tiempo:</string>
+    <string name="creada">Creada:</string>
+</resources>
