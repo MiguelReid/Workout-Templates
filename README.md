@@ -21,10 +21,6 @@ Application with templates for working out or meditating
 - You can also click below and a heart animation will appear with Lotti
 ## Version
 Version 1.0.0
-## Built with
-Kotlin
-## Version
-Version 1.0.0
 ## Author
 Miguel Reid Ruiz
 ## License
