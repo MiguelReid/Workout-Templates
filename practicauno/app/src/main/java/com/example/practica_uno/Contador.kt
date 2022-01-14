@@ -25,7 +25,7 @@ class Contador : AppCompatActivity() {
     lateinit var mp: MediaPlayer
     var tiempo: Long = 0
     private val URL_BASE = "https://api.nasa.gov/planetary/"
-    private val KEY = "apod?api_key=ebK4WNzaTu7Neg0nZJLxNMwbVIsuzbcMgn4CZfiI"
+    private val KEY = "apod?api_key=YOUR_NASA_KEY"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
